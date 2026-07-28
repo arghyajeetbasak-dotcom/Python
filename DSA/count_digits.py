@@ -6,7 +6,7 @@ while(m!=0):
     count+=1
     m=m//10
 print(count)
-
+#     or
 import math
 result=math.log10(n)+1
 print(int(result))
